@@ -1,0 +1,11 @@
+[Protocol]
+exec=chainaid-qt '%u'
+protocol=chainaid
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

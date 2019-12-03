@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ChainAid
+Comment=CHID P2P Cryptocurrency
+Comment[fr]=CHID, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=CHID, eşten eşe kriptografik sanal para birimi
+Exec=chainaid-qt %u
+Terminal=false
+Type=Application
+Icon=chainaid128
+MimeType=x-scheme-handler/chainaid;
+Categories=Office;Finance;

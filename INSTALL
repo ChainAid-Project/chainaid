@@ -1,0 +1,9 @@
+Building ChainAid
+
+See doc/readme-qt.rst for instructions on building ChainAid QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ChainAid.
+
+See doc/build-*.txt for instructions on building chainaidd,
+the intended-for-services, no-graphical-interface, reference
+implementation of ChainAid.
